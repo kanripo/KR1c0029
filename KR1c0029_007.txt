@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩傳旁通
-#+DATE: 2015-09-23 09:36:46
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:05:22.769573
+#+PROPERTY: ID KR1c0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1c0029_WYG_007-1a>¶
 欽定四庫全書¶
 　詩傳旁通卷七　　　　　　元　梁益　撰¶
@@ -578,4 +580,3 @@
 　¶
 　¶
 　詩傳旁通卷七¶
-
